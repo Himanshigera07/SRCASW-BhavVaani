@@ -76,7 +76,7 @@ If you use this dataset, please cite:
 
 1. TriFuNET: Tri-fusion Net Ensemble model for Speech Emotion Recognition using Complementary Acoustic Features  
 2. BMHB: A lightweight hybrid Hindi Speech Emotion Recognition (SER) Framework  
-3. Evaluating Deep Learning Approaches for Speech Emotion Recognition onBilingual Datasets
+3. Evaluating Deep Learning Approaches for Speech Emotion Recognition on Bilingual Datasets
 
 *Full citation details will be updated after publication.*
 
