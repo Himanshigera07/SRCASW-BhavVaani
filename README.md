@@ -1,4 +1,4 @@
-# 🎧 BhavVani: Hindi Speech Emotion Recognition Dataset
+# BhavVani: Hindi Speech Emotion Recognition Dataset
 
 ![Status](https://img.shields.io/badge/status-sample--release-yellow)
 ![License](https://img.shields.io/badge/license-research--only-blue)
@@ -7,7 +7,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 **BhavVani** is a Hindi Speech Emotion Recognition (SER) dataset developed to facilitate research in affective computing and speech-based emotion classification.
 
@@ -15,7 +15,7 @@ This repository currently provides a **sample subset** of the dataset for demons
 
 ---
 
-## 📊 Dataset Details
+## Dataset Details
 
 | Attribute           | Description                   |
 |---------------------|-------------------------------|
@@ -28,7 +28,7 @@ This repository currently provides a **sample subset** of the dataset for demons
 
 ---
 
-## 📂 Dataset Structure
+## Dataset Structure
 
 ```
 SRCASW-BhavVani/
@@ -42,7 +42,7 @@ Each directory contains speech samples corresponding to a specific emotional cla
 
 ---
 
-## 🎯 Applications
+## Applications
 
 - Speech Emotion Recognition (SER)  
 - Audio classification and tagging  
@@ -52,25 +52,25 @@ Each directory contains speech samples corresponding to a specific emotional cla
 
 ---
 
-## ⚠️ Availability Notice
+## Availability Notice
 
-🚧 This repository contains **only a sample dataset**.
+This repository contains **only a sample dataset**.
 
-> 📌 The **complete dataset**:
+>  The **complete dataset**:
 > - Will be made **publicly available after the publication of the research paper**, OR  
 > - Will be **shared upon request for academic/research purposes**
 
 ---
 
-## 📜 Usage Policy
+## Usage Policy
 
-- ✔ Allowed: Research and academic use  
-- ❌ Not allowed: Commercial use  
-- ❌ Redistribution without permission  
+-  Allowed: Research and academic use  
+-  Not allowed: Commercial use  
+- Redistribution without permission  
 
 ---
 
-## 📖 Citation
+## Citation
 
 If you use this dataset, please cite:
 
@@ -82,14 +82,14 @@ If you use this dataset, please cite:
 
 ---
 
-## 📦 Access to Full Dataset
+## Access to Full Dataset
 
-📩 To request access, contact:  
+To request access, contact:  
 **himanshi.gera007@gmail.com**
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 - Himanshi 
 - Sonali Jha  
@@ -98,7 +98,7 @@ If you use this dataset, please cite:
 
 ---
 
-## 🚀 Future Work
+## Future Work
 
 - Expansion to additional emotional classes  
 - Inclusion of more speakers and diversity  
@@ -107,6 +107,6 @@ If you use this dataset, please cite:
 
 ---
 
-## ⭐ Acknowledgment
+## Acknowledgment
 
-If you find this dataset useful, consider ⭐ starring the repository.
+If you find this dataset useful, consider  starring the repository.
